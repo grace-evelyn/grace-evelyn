@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I am currently learning how to use GitHub.
+- I am working through various tutorials to help me improve my skills.
 
 <!--
 **grace-evelyn/grace-evelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
